@@ -1,2 +1,2 @@
 # AiSearch
-Testando Analise reconhecimento do Azure - AI Search
+Testando Analise da ferramenta do Azure - AI Search
